@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\bin\Debug\netcoreapp3.1\quiz1gao.exe
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\bin\Debug\netcoreapp3.1\quiz1gao.deps.json
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\bin\Debug\netcoreapp3.1\quiz1gao.runtimeconfig.json
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\bin\Debug\netcoreapp3.1\quiz1gao.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\bin\Debug\netcoreapp3.1\quiz1gao.dll
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\bin\Debug\netcoreapp3.1\quiz1gao.pdb
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\obj\Debug\netcoreapp3.1\quiz1gao.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\obj\Debug\netcoreapp3.1\quiz1gao.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\obj\Debug\netcoreapp3.1\quiz1gao.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\obj\Debug\netcoreapp3.1\quiz1gao.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\obj\Debug\netcoreapp3.1\quiz1gao.dll
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\obj\Debug\netcoreapp3.1\quiz1gao.pdb
+C:\Users\LENOVO\source\repos\quiz1gao\quiz1gao\obj\Debug\netcoreapp3.1\quiz1gao.genruntimeconfig.cache
