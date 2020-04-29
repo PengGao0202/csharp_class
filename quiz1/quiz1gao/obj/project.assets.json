@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\quiz1gao\\csharp_class\\quiz1gao\\quiz1gao.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\csharp_class\\quiz1\\quiz1gao\\quiz1gao.csproj",
       "projectName": "quiz1gao",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\quiz1gao\\csharp_class\\quiz1gao\\quiz1gao.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\csharp_class\\quiz1\\quiz1gao\\quiz1gao.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\quiz1gao\\csharp_class\\quiz1gao\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\csharp_class\\quiz1\\quiz1gao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
